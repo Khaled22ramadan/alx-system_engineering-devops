@@ -1,2 +1,2 @@
 #!/bin/bash
-clown --form=guillaume betty hello
+clown -c --form=guillaume betty hello
