@@ -1,3 +1,3 @@
 #!/bin/bash
-user="hello:$USER"
-echo $(user)
+echo="hello:$USER"
+
